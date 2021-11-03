@@ -1,16 +1,10 @@
 {
-    "name": "lightsaml/sp-bundle",
+    "name": "trigger121/sp-bundle",
     "license": "MIT",
     "type": "symfony-bundle",
     "description": "Light SAML2 SP Symfony Bundle",
     "homepage": "http://www.lightsaml.com/SP-Bundle/",
     "authors": [
-        {
-            "name": "Milos Tomic",
-            "email": "tmilos@gmail.com",
-            "homepage": "http://github.com/tmilos",
-            "role": "Developer"
-        }
     ],
     "autoload": {
         "psr-0": {
